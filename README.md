@@ -7,7 +7,7 @@ your code.
 
 # Topological Sort 
 
-(note: I used geeks for geeks for the definition of topological sort)
+(note: I used geeks for geeks for the definition of topological sort: https://www.geeksforgeeks.org/topological-sorting/)
 
 I've had a lot of fun with the graphing functions lately and I wanted to look at other ways of sorting or analyzing these graphs. 
 

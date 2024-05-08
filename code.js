@@ -1,3 +1,7 @@
+// I got stuck halfway through this, and then I read the illustration of geeks for geeks' 
+// implementation and realized it was easier to go backwards instead. 
+// I promise I did not rip code for this.
+// source: https://www.geeksforgeeks.org/topological-sorting/
 function top(graph = []){
     let visited = Array(graph.length).fill(false);
     let connections = Array(graph.length).fill(0);

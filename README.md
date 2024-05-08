@@ -7,6 +7,8 @@ your code.
 
 # Topological Sort 
 
+(note: I used geeks for geeks for the definition of topological sort)
+
 I've had a lot of fun with the graphing functions lately and I wanted to look at other ways of sorting or analyzing these graphs. 
 
 Topologcial sorting is a type of sorting that only works for Directed Acyclic graphs, graphs with no biways and no way of making circles in the path. Then the definition is this, for every edge $u-v$, $u$ goes before $v$ in the path. Meaning that there is always a node that goes before the other for any edge. I like to think of as if there is some topological perspective to it. 
